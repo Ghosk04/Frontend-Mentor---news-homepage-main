@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Ghosk04/Frontend-Mentor---news-homepage-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: ([https://your-live-site-url.com](https://melodious-gnome-0ae0b9.netlify.app/))
 
 ## My process
 
