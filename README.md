@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repository]([https://your-solution-url.com](https://github.com/Ghosk04/Frontend-Mentor---news-homepage-main))
+- Solution URL: ([https://your-solution-url.com](https://github.com/Ghosk04/Frontend-Mentor---news-homepage-main))
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
