@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Githun depository](https://github.com/Ghosk04/Frontend-Mentor---news-homepage-main)
-- Live Site URL: ([Overview of the website](https://melodious-gnome-0ae0b9.netlify.app/))
+- Solution URL: [Github depository](https://github.com/Ghosk04/Frontend-Mentor---news-homepage-main)
+- Live Site URL: [Overview of the website](https://melodious-gnome-0ae0b9.netlify.app/)
 
 ## My process
 
